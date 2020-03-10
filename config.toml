@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "http://localhost"
 languageCode = "en-us"
 title = "Kubeflow"
 theme = ["docsy"]
@@ -51,6 +51,23 @@ pygmentsStyle = "tango"
     weight = -99
     url = "https://github.com/kubeflow/"
 
+[[languages.zh.menu.main]]
+    name = "Kubeflow是什么?"
+    weight = -103
+    url = "/docs/about/kubeflow/"
+[[languages.zh.menu.main]]
+    name = "文档"
+    weight = -101
+    url = "/docs/"
+[[languages.zh.menu.main]]
+    name = "博客"
+    weight = -100
+    url = "https://medium.com/kubeflow"
+[[languages.zh.menu.main]]
+    name = "GitHub"
+    weight = -99
+    url = "https://github.com/kubeflow/"
+
 # Docsy: Configure the format of URLs per section.
 #[permalinks]
 #blog = "/:section/:year/:month/:day/:slug/"
@@ -75,11 +92,20 @@ id = "UA-135379910-1"
 # Docsy: Language configuration
 
 [languages]
+
 [languages.en]
 title = "Kubeflow"
 description = "Kubeflow makes deployment of ML Workflows on Kubernetes straightforward and automated"
 languageName ="English"
+contentDir = "content/en"
 weight = 1
+
+[languages.zh]
+title = "Kubeflow中文文档"
+description = "Kubeflow使基于k8s的机器学习工作流部署直接、自动化。"
+languageName ="简体中文"
+contentDir = "content/zh"
+
 # Example of another language: Norwegian
 #[languages.no]
 #title = "Docsy"
