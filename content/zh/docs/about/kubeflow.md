@@ -1,5 +1,5 @@
 +++
-title = "Kubeflow"
+title = "简介"
 description = "Kubeflow简介"
 weight = 1
 aliases = ["/docs/", "/docs/about/", "/docs/kubeflow/"]

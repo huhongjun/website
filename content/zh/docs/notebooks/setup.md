@@ -1,5 +1,5 @@
 +++
-title = "Set Up Your Notebooks"
+title = "设置Notebook"
 description = "Getting started with Jupyter notebooks on Kubeflow"
 weight = 10
 +++

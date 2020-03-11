@@ -1,5 +1,5 @@
 +++
-title = "Understanding Pipelines"
-description = "Overview and concepts in Kubelow Pipelines"
+title = "了解流水线"
+description = "Kubelow流水线概览与概念"
 weight = 20
 +++

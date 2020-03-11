@@ -1,5 +1,5 @@
 +++
-title = "Overview of Jupyter Notebooks in Kubeflow"
+title = "了解Kubeflow的Jupyter Notebook"
 description = "Why use Jupyter notebooks in Kubeflow"
 weight = 5
 +++

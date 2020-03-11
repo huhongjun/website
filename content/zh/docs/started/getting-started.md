@@ -1,6 +1,6 @@
 +++
-title = "Installing Kubeflow"
-description = "Overview of installation choices for various environments"
+title = "安装Kubeflow"
+description = "了解针对多重环境的安装选项"
 weight = 20
 +++
 

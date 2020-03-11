@@ -1,5 +1,5 @@
 +++
-title = "Pipelines Quickstart"
+title = "流水线快速入门"
 description = "Getting started with Kubeflow Pipelines"
 weight = 10
 +++

@@ -1,5 +1,5 @@
 +++
-title = "Create a Custom Jupyter Image"
+title = "创建定制Jupyter镜像"
 description = "Creating a custom Docker image for your Jupyter notebook"
 weight = 30
 +++

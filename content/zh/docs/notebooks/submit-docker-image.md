@@ -1,5 +1,5 @@
 +++
-title = "Build a Docker Image on GCP"
+title = "在GCP上构建Docker镜像"
 description = "Building Docker images from a Jupyter notebook and submitting them to Container Registry"
 weight = 50
 +++

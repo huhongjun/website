@@ -1,6 +1,6 @@
 +++
-title = "Kubeflow Overview"
-description = "How Kubeflow helps you organize your ML workflow"
+title = "了解Kubeflow"
+description = "Kubeflow如何帮助你组织你的ML工作流"
 weight = 10
 +++
 
