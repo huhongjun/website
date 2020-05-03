@@ -1,0 +1,9 @@
+server:
+  image: huhongjun/hugo:0.69.2-ubuntu-git
+  container_name: hugo-server-kubeflow
+  volumes:
+    - .:/src
+    - ./public:/target
+  ports:
+    - 1313:1313
+  command: server
