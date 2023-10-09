@@ -1,10 +1,15 @@
-# website-kubeflow
+# hugo
 
 ## 简介
 
 [hugo](https://www.gohugo.org/)基于golang开发，打包成独立文件，不需要其他任何的环境，只要下载好hugo并添加好系统变量，就能直接运行
 
 ## 快速开始
+
+hugo配置文件config.toml
+中英文md文件在content目录
+
+生成静态文件public目录,拷贝到osmatrix.github.io手动提交
 
 ### docker run
 
